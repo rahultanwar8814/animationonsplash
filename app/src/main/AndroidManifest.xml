@@ -18,9 +18,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".AnimationState"
+        <activity
+            android:name=".AnimationState"
             android:theme="@style/AppTheme.Transparent"
-            android:launchMode="singleTask"></activity>
+            android:launchMode="singleTask" />
     </application>
 
 </manifest>
